@@ -36,10 +36,8 @@ make run
 make clean
 ```
 
-## Posts
-
 ```sh
-http://localhost:8080/posts
+Server running at http://localhost:8000
 ```
 
 ## Contributing
